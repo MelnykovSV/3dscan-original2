@@ -732,6 +732,16 @@ a:hover {
   ===========================*/
 .latest-works {
 }
+.works {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  column-gap: 20px;
+}
+.works-item {
+  width: 48%;
+}
 .latest-works .section-title h2 {
   padding-bottom: 0px;
   margin-bottom: 0px;

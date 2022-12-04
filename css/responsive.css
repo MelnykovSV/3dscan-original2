@@ -323,6 +323,10 @@
     width: 400px;
   }
 
+  .works-item:nth-child(2n) {
+    margin-bottom: 10px;
+  }
+
   #testimonials .testi-content {
     text-align: center;
     float: none;
