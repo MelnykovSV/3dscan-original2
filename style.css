@@ -21,6 +21,29 @@ Version:	1.1
 ========================================*/
 
 /* body */
+/* =====================================
+Template Name: Tromas
+Author Name: Codeglim
+Description: Tromas is a Multipurpose Business HTML5 Theme. It's Perfect for any business websites. You can customize every section as your need.
+Version:	1.1
+========================================*/
+/*======================================
+[ CSS Table of contents ]
+* Header CSS
+* Slider CSS
+* About CSS
+* Service CSS
+* Skill CSS
+* Story CSS
+* Portfolio CSS
+* Blog CSS
+* Newsletter CSS
+* Contact CSS
+* Clients CSS
+* Footer CSS
+========================================*/
+
+/* body */
 body {
   font-family: "Fira Sans", sans-serif;
   font-weight: 400;
@@ -181,8 +204,8 @@ a:hover {
 }
 
 /*=========================
-	Header CSS
-===========================*/
+	  Header CSS
+  ===========================*/
 .header {
   background: linear-gradient(-154deg, #42bc7f, #3d8963);
 }
@@ -303,12 +326,12 @@ a:hover {
   text-align: center;
 }
 /*=========================
-	End Header CSS
-===========================*/
+	  End Header CSS
+  ===========================*/
 
 /*=========================
-	Slider CSS
-===========================*/
+	  Slider CSS
+  ===========================*/
 .slider {
   position: relative;
   background-image: url("./img/3D.jpg");
@@ -369,12 +392,12 @@ a:hover {
   background: #fff;
 }
 /*=========================
-	End Slider CSS
-===========================*/
+	  End Slider CSS
+  ===========================*/
 
 /*=========================
-	About CSS
-===========================*/
+	  About CSS
+  ===========================*/
 .about {
   padding-top: 100px;
   padding-bottom: 100px;
@@ -468,12 +491,12 @@ a:hover {
   background: #3339;
 }
 /*=========================
-	End About CSS
-===========================*/
+	  End About CSS
+  ===========================*/
 
 /*=========================
-	Services CSS
-===========================*/
+	  Services CSS
+  ===========================*/
 .service {
   background: linear-gradient(-154deg, #42bc7f, #305a45);
   padding: 40px 0 100px;
@@ -519,12 +542,12 @@ a:hover {
   font-weight: 300;
 }
 /*=========================
-	End Services CSS
-===========================*/
+	  End Services CSS
+  ===========================*/
 
 /*=========================
-	Skills CSS
-===========================*/
+	  Skills CSS
+  ===========================*/
 .skill {
   background: #000;
   padding: 50px 0 100px;
@@ -607,12 +630,12 @@ a:hover {
   background: #ed1c24;
 }
 /*=========================
-	End Skills CSS
-===========================*/
+	  End Skills CSS
+  ===========================*/
 
 /*=========================
-	Story CSS
-===========================*/
+	  Story CSS
+  ===========================*/
 .story {
   padding: 100px 0px;
   background: #f5f5f5;
@@ -701,12 +724,12 @@ a:hover {
   margin-top: 15px;
 }
 /*=========================
-	End Story CSS
-===========================*/
+	  End Story CSS
+  ===========================*/
 
 /*=========================
-	Latest Works CSS
-===========================*/
+	  Latest Works CSS
+  ===========================*/
 .latest-works {
 }
 .latest-works .section-title h2 {
@@ -927,12 +950,12 @@ a:hover {
   padding-left: 0px;
 }
 /*=========================
-	End Latest Works CSS
-===========================*/
+	  End Latest Works CSS
+  ===========================*/
 
 /*=========================
-	Testimonials CSS
-===========================*/
+	  Testimonials CSS
+  ===========================*/
 .testimonials {
   background-image: url("img/testimonial-bg.jpg");
   background-size: cover;
@@ -1025,12 +1048,12 @@ a:hover {
 .testimonials .owl-dots button span {
 }
 /*=========================
-	End Testimonials CSS
-===========================*/
+	  End Testimonials CSS
+  ===========================*/
 
 /*=========================
-	Blogs CSS
-===========================*/
+	  Blogs CSS
+  ===========================*/
 .blog {
   background: #f5f5f5;
 }
@@ -1159,12 +1182,12 @@ a:hover {
   margin-left: 5px;
 }
 /*=========================
-	End Blogs CSS
-===========================*/
+	  End Blogs CSS
+  ===========================*/
 
 /*=========================
-	Newsletter
-===========================*/
+	  Newsletter
+  ===========================*/
 .newslatter {
   background-color: #fff;
   text-align: center;
@@ -1245,12 +1268,12 @@ a:hover {
   color: #fff;
 }
 /*===========================
-	End Newsletter
-=============================*/
+	  End Newsletter
+  =============================*/
 
 /*===========================
-	Contact CSS
-=============================*/
+	  Contact CSS
+  =============================*/
 .contact {
   background: #f5f5f5;
 }
@@ -1337,12 +1360,12 @@ a:hover {
   border-radius: 0px 7px 0px 7px;
 }
 /*===========================
-	End Contact CSS
-=============================*/
+	  End Contact CSS
+  =============================*/
 
 /*===========================
-	Clients CSS
-============================*/
+	  Clients CSS
+  ============================*/
 .clients {
   position: relative;
   padding: 30px 0;
@@ -1379,12 +1402,12 @@ a:hover {
   color: #42bc7f;
 }
 /*===========================
-	End Clients CSS
-============================*/
+	  End Clients CSS
+  ============================*/
 
 /*===========================
-	Footer CSS
-============================*/
+	  Footer CSS
+  ============================*/
 .footer {
   padding: 0;
 }
@@ -1434,5 +1457,5 @@ a:hover {
   color: #666666;
 }
 /*===========================
-	End Footer CSS
-============================*/
+	  End Footer CSS
+  ============================*/
