@@ -647,7 +647,8 @@ a:hover {
   margin-top: 55px;
 }
 .story .single-story .inner-content {
-  margin-left: 125px;
+  padding-left: 30px;
+  padding-right: 15px;
   position: relative;
 }
 .story .story-content {
@@ -656,7 +657,7 @@ a:hover {
 .story .story-content::before {
   position: absolute;
   content: "";
-  left: 90px;
+  left: 0px;
   top: 0;
   height: 100%;
   width: 1px;
@@ -710,7 +711,7 @@ a:hover {
   text-indent: 25px;
   text-align: justify;
 }
-.story .single-story p:before {
+/* .story .single-story p:before {
   position: absolute;
   content: "";
   left: -40px;
@@ -719,7 +720,7 @@ a:hover {
   width: 10px;
   background: #fff;
   border-radius: 100%;
-}
+} */
 .story .single-story .p2 {
   margin-top: 15px;
 }

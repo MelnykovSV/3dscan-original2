@@ -34,13 +34,16 @@
   }
 
   .story .single-story .inner-content {
-    margin-left: 30px;
-    margin-right: 20px;
+    padding-left: 15px;
+    padding-right: 0;
+  }
+  .story .single-story .inner-content p {
+    font-size: 18px;
   }
   .story .story-content::before {
     position: absolute;
     content: "";
-    left: 15px;
+    left: 0;
     top: 0;
     height: 100%;
     width: 1px;
@@ -292,13 +295,20 @@
     height: 931px;
   }
   .story .single-story .inner-content {
-    margin-left: 30px;
-    margin-right: 20px;
+    padding-left: 15px;
+    padding-right: 0;
+  }
+  .story .single-story .inner-content p {
+    font-size: 14px;
+  }
+  .story .story-content {
+    max-width: 550px;
+    margin: 0 auto;
   }
   .story .story-content::before {
     position: absolute;
     content: "";
-    left: 15px;
+    left: 0;
     top: 0;
     height: 100%;
     width: 1px;
